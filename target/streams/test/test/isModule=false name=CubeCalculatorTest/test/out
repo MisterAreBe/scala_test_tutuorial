@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mCubeCalculatorTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- CubeCalculator.cube[0m[0m
+[0m[[0minfo[0m] [0m[32m- CubeCalculator.cube0[0m[0m
+[0m[[0minfo[0m] [0m[31m- to_the_power_of_4^3 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  48 did not equal 64 (CubeCalculatorTest.scala:9)[0m[0m
